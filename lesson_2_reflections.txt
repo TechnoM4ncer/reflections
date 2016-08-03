@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git metadeta is created and the directory is prepared for initial commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is a temporary non-existant folder that allows you to decide
+which files will be commited. It allows you to only commit 
+relative files and leave notes for each change.
