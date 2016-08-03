@@ -14,3 +14,8 @@ Clone is used to copy a repository from a given URL to your local machine so tha
 can work on it. A branch is used in order to experiment or make a different version
 of the repository. It can be helpful for working with multiple developers so each
 person's code does not effect the others' until they merge with master, or vice-versa.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It will allow you to see all commits that have been pushed to the remote at any given time,
+so that the repository you are working on is always current and up-to-date.
