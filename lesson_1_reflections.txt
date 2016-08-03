@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+it helped by allowing me to see
+what lines were changed in each file
+and telling me which line of the code
+the change was made on.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It will allow the programmer to
+see differences in new version of the program
+and allow them to monitor for typos and malpractice
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+It saves you from having a lot
+of bugged code by saving whenever you make a good change
+in your code that for sure works. Rather than saving in the middle of
+a line, or perhaps after adding an improper line of code/typo
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because Git was made for coding and with that in mind,
+coding often uses multiple files for the same function.
+If only one file was changed, in say, an object oriented language
+where you called a function from a class, then it would be incomplete.
+
+How can you use the commands git log and git diff to view the history of files?
+
+If you use git log, it will bring up a list of previous commits to a repository. Were you can choose two different commit IDs to use with git diff, which will show you the differences between the two commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+Knowing that I will always be able to go back to a previous commit where the bug was not active would allow me to be confident when making changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I plan on using it in every project tat I do from now on to ensure proper practice when fixing bugs and adding new features.
